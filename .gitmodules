@@ -1,0 +1,3 @@
+[submodule "arecibo/lib"]
+	path = arecibo/lib
+	url = git://github.com/bryanchow/python-arecibo.git
